@@ -167,3 +167,13 @@ SO YOU DISAPPROVE IT?
 SO, YOU ARE TALKING ABOUT YOURSELF
 >BYE
 IT WAS NICE TALKING TO YOU USER, SEE YOU NEXT TIME!
+
+conversation log - Sun April 9 13:00:00 2017
+
+Hey! How may I help you?
+>can you tell me what is a bitcoin?
+Yes ! Bitcoin is a crytocurrency which can be used for varied purposes!
+>ok ! I want to buy a saree! help me 
+sure ! what colour do you want?
+>red
+these are the red colour sarees we have ! // use hyperlinks
