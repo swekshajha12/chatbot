@@ -173,7 +173,7 @@ conversation log - Sun April 9 13:00:00 2017
 Hey! How may I help you?
 >can you tell me what is a bitcoin?
 Yes ! Bitcoin is a crytocurrency which can be used for varied purposes!
->ok ! I want to buy a saree! help me 
-sure ! what colour do you want?
->red
-these are the red colour sarees we have ! // use hyperlinks
+>ok ! I want to buy a headphone! help me 
+sure ! what brand do you want?
+>sony
+ we have the following  items ! // use hyperlinks
